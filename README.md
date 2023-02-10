@@ -1,5 +1,5 @@
 # Workify
-Project for Software Processes and Modelling Coursework. Compares data on Spotify listening habits and productivity to help users improve their work habits.
+Group project for Software Processes and Modelling Coursework. Compares data on Spotify listening habits and productivity to help users improve their work habits.
 
 ## Python Packages
 Install required python packages
