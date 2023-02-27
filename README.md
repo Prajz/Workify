@@ -6,6 +6,8 @@ Install required python packages
 ```powershell
 pip install -r requirements.txt
 ```
+Navigate to Webapp and run main.py which will run a server and provide a URL allowing you to use the app.
+
 ## File Structure
 <pre>
 .
